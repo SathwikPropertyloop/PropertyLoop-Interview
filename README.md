@@ -12,23 +12,6 @@ This template gives candidates a clean starting point so they can focus on solvi
 - Ready-to-run with `uvicorn`  
 - Clean structure for quick extensibility  
 
----
-
-## 📂 Project Structure
-app/
-├── api/
-│ └── v1/
-│ └── example.py # Example routes (CRUD)
-├── schemas/
-│ └── example.py # Pydantic models
-├── main.py # FastAPI app entry
-requirements.txt # Dependencies
-
-yaml
-Copy code
-
----
-
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
