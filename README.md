@@ -1,7 +1,8 @@
 # 🚀 Propertyloop Interview Boilerplate
 
 A minimal FastAPI boilerplate designed for **technical interviews**.  
--- This template gives candidates a clean starting point so they can focus on solving API problems instead of setting up a project. Keep the server up and running before the interview
+
+This template gives candidates a clean starting point so they can focus on solving API problems instead of setting up a project. Keep the server up and running before the interview
 
 ---
 
