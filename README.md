@@ -16,7 +16,7 @@ This template gives candidates a clean starting point so they can focus on solvi
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
- - git clone [https://github.com/YOUR_USERNAME/fastapi-interview-boilerplate.git](https://github.com/SathwikPropertyloop/PropertyLoop-Interview.git)
+ - git clone [https://github.com/SathwikPropertyLoop/fastapi-interview-boilerplate.git](https://github.com/SathwikPropertyloop/PropertyLoop-Interview.git)
  - cd fastapi-interview-boilerplate
 
 2️⃣ Create a virtual environment
